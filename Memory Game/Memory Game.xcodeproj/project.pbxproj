@@ -27,7 +27,7 @@
 		A3C952C82CD03418002E70CB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		A3C952CA2CD03C48002E70CB /* CelebrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelebrationView.swift; sourceTree = "<group>"; };
 		A3C952CC2CD03D1A002E70CB /* ConfettiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfettiView.swift; sourceTree = "<group>"; };
-		A3C952CE2CD0471B002E70CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A3C952CF2CD04745002E70CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 		A3C952AA2CD02E49002E70CB = {
 			isa = PBXGroup;
 			children = (
-				A3C952CE2CD0471B002E70CB /* README.md */,
+				A3C952CF2CD04745002E70CB /* README.md */,
 				A3C952B52CD02E49002E70CB /* Memory Game */,
 				A3C952B42CD02E49002E70CB /* Products */,
 			);
