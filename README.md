@@ -1,4 +1,4 @@
-# Project 4 - *Memory Match*
+# Memory Match - Engaging Memory Card Game
 
 **Memory Match** is an engaging memory card game that challenges players to find matching pairs of cards while racing against the clock. With vibrant themes featuring distinct emojis, animals, and colors, players can enjoy a visually appealing experience. The app includes a timer to track how quickly players complete the game and provides a celebratory screen with random cat images and confetti effects upon victory. Players can easily reset the game and choose different themes, adding variety and excitement to each session. Perfect for all ages, Memory Match is a fun way to sharpen memory skills while enjoying delightful graphics and animations!
 
